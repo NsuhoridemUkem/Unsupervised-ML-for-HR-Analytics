@@ -152,6 +152,8 @@ K-Means was applied iteratively to segment employees into distinct groups.
 - **Round 2:** Feature refinement to improve cluster separation and silhouette scores  
 
 Cluster centroids were analyzed to interpret employee profiles and behavioral patterns.
+<Figure size 640x480 with 1 Axes><img width="576" height="453" alt="image" src="https://github.com/user-attachments/assets/f96522ec-9e2d-41d1-b771-4ce411135bec" />
+
 
 ---
 
