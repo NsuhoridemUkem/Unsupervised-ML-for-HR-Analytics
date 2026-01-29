@@ -2,10 +2,10 @@
 ## An Unsupervised Learning Approach to HR Analytics
 
 ## 📑 Table of Contents
-1. [Introduction](#introduction)
+1. [Introduction](##introduction)
 2. [Project Background & Motivation](#project-background--motivation)
 3. [Business Problem Statement](#business-problem-statement)
-4. [Analytical Objectives](#analytical-objectives)
+4. [Analytical Objectives](##analytical-objectives)
 5. [Dataset Description](#dataset-description)
 6. [Tools, Libraries & Technologies](#tools-libraries--technologies)
 7. [Project Workflow](#project-workflow)
@@ -18,9 +18,6 @@
 10. [Evaluation & Validation Approach](#evaluation--validation-approach)
 11. [Limitations & Assumptions](#limitations--assumptions)
 12. [Future Improvements](#future-improvements)
-13. [Repository Structure](#repository-structure)
-14. [Installation & Requirements](#installation--requirements)
-15. [Author](#author)
 
 ---
 
@@ -231,8 +228,4 @@ Although clustering is unsupervised:
 - Extend analysis to include engagement surveys
 - Build interactive dashboards
 - Integrate findings into HR decision systems
-
----
-
-## 📁 Repository Structure
 
