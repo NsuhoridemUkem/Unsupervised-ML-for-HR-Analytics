@@ -165,7 +165,7 @@ High-dimensional HR data is difficult to visualize directly.
 - Visually validate cluster separation
 
 The PCA plot confirmed that the final clusters were **well-separated and interpretable**.
-<Figure size 2500x2500 with 110 Axes><img width="2456" height="2456" alt="image" src="https://github.com/user-attachments/assets/a7a56610-9dc1-468c-bdb4-1ab459ebcc8a" />
+<Figure size 640x480 with 1 Axes><img width="567" height="432" alt="image" src="https://github.com/user-attachments/assets/e46ca0bb-bdd4-4fcf-b31a-117d3cc8456d" />
 
 
 ---
